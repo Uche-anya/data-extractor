@@ -1,0 +1,21 @@
+# .gitignore
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+
+# IDE specific files
+.idea/
+
+# Compiled files
+*.pyc
+
+# User-specific files
+.DS_Store
+
+
