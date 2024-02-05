@@ -18,4 +18,7 @@ venv/
 # User-specific files
 .DS_Store
 
+#csv
+*.csv
+
 
